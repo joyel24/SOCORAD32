@@ -1,3 +1,11 @@
+# INACTIVE - NEW WORKING REPO HERE : https://github.com/joyel24/SOCORAD32-Advanced-Firmware
+<br><br><br><br><br><br><br>
+
+
+
+
+
+
 # SOCORAD32 - ESP32 SOftware COntrolled RADio
 
 <br/> (3D enclosure design already released)
